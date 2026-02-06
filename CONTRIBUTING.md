@@ -9,7 +9,6 @@ This is a small, casual community project made by Agent YellowLightning. Contrib
 ## How Contributions Work
 - Please use **Issues** for requests, missing assets, or questions.
 - Use **Pull Requests** for actual contributions.
-- Direct commits are reserved for the maintainer.
 
 ## File Standards
 - Filenames: `snake_case`.

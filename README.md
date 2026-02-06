@@ -1,50 +1,15 @@
-```
-██╗███╗   ██╗ ██████╗ ██████╗ ███████╗███████╗███████╗
-██║████╗  ██║██╔════╝ ██╔══██╗██╔════╝██╔════╝██╔════╝
-██║██╔██╗ ██║██║  ███╗██████╔╝█████╗  ███████╗███████╗
-██║██║╚██╗██║██║   ██║██╔══██╗██╔══╝  ╚════██║╚════██║
-██║██║ ╚████║╚██████╔╝██║  ██║███████╗███████║███████║
-╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-██████╗ ██████╗ ██╗███╗   ███╗███████╗
-██╔══██╗██╔══██╗██║████╗ ████║██╔════╝
-██████╔╝██████╔╝██║██╔████╔██║█████╗
-██╔═══╝ ██╔══██╗██║██║╚██╔╝██║██╔══╝
-██║     ██║  ██║██║██║ ╚═╝ ██║███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚══════╝
- ██████╗ ██████╗  █████╗ ██████╗ ██╗  ██╗██╗ ██████╗
-██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║  ██║██║██╔════╝
-██║  ███╗██████╔╝███████║██████╔╝███████║██║██║
-██║   ██║██╔══██╗██╔══██║██╔══██╗██╔══██║██║██║
-╚██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║╚██████╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝
- █████╗ ██████╗  ██████╗██╗  ██╗██╗██╗   ██╗███████╗
-██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║   ██║██╔════╝
-███████║██████╔╝██║     ███████║██║██║   ██║█████╗
-██╔══██║██╔══██╗██║     ██╔══██║██║██║   ██║██╔══╝
-██║  ██║██║  ██║╚██████╗██║  ██║██║╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝
-```
-**Ingress Prime Archive**
+# Ingress Prime Archive
 
 *Fan-made, non-commercial.*
 
-A small fan archive of reconstructed graphic elements from the Ingress Prime scanner. No UI library, no app clone, just clean assets that can be used in websites, print, avatars, and other fan projects.
+A small fan archive of reconstructed graphic elements from the Ingress Prime scanner and fanmade graphics. No UI library, no app clone, just clean assets that can be used in websites, print, avatars, and other fan projects.
 
-## Legal and Credits
-
-Unofficial fan project, not affiliated with Niantic Spatial or Ingress Prime. All trademarks, logos, and original designs belong to their respective owners. I do not own rights to original materials; everything here is a fan-made reconstruction intended for **non-commercial** community use only. Do not use these assets in a way that implies official status or affiliation, and do not sell merchandise featuring these marks or graphics. Please contribute only your own work.
-
-## License
-Original content in this repository is licensed under **CC BY-NC-SA 4.0**. This does not grant any rights to third-party trademarks or original Ingress Prime assets.
+<img src="https://github.com/user-attachments/assets/3addde3c-8824-4599-b5a7-b4de2da7be32" width="400" />
+<br><sub>image generated with nano banana</sub>
 
 ## What This Repo Is
 - **Scanner graphics:** Icons, HUD overlays, frames, badges.
 - **Templates:** Editable vector sources (primary `SVG`, optional `AI`/`EPS`).
-
-## What This Repo Is Not
-- No UI kit and no rebuildable screens.
-- No game logic, network calls, or reverse engineering.
-- No official materials and nothing that implies affiliation.
 
 ## Contributing
 Contributions are welcome. See `CONTRIBUTING.md`.
@@ -53,6 +18,14 @@ Contributions are welcome. See `CONTRIBUTING.md`.
 - Telegram: @YellowLightning
 - Bluesky: yellowlightning.bsky.social
 - For project requests, prefer Issues or PRs please.
+
+## Legal and Credits
+
+Unofficial fan project, not affiliated with Niantic Spatial or Ingress Prime. All trademarks, logos, and original designs belong to their respective owners. I do not own rights to original materials; everything here is a fan-made reconstruction intended for **non-commercial** community use only. Do not use these assets in a way that implies official status or affiliation, and do not sell merchandise featuring these marks or graphics. Please contribute only your own work.
+
+## License
+Original content in this repository is licensed under **CC BY-NC-SA 4.0**. This does not grant any rights to third-party trademarks or original Ingress Prime assets.
+
 
 ## Made with
 

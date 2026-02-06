@@ -24,7 +24,7 @@
 ██║  ██║██║  ██║╚██████╗██║  ██║██║╚██████╔╝███████╗
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝
 ```
-**Ingress Prime Graphics Archive for the Community**
+**Ingress Prime Archive**
 
 *Fan-made, non-commercial.*
 

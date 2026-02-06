@@ -53,3 +53,12 @@ Contributions are welcome. See `CONTRIBUTING.md`.
 - Telegram: @YellowLightning
 - Bluesky: yellowlightning.bsky.social
 - For project requests, prefer Issues or PRs please.
+
+## Made with
+
+![image](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![image](	https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+

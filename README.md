@@ -34,6 +34,9 @@ A small fan archive of reconstructed graphic elements from the Ingress Prime sca
 
 Unofficial fan project, not affiliated with Niantic Spatial or Ingress Prime. All trademarks, logos, and original designs belong to their respective owners. I do not own rights to original materials; everything here is a fan-made reconstruction intended for **non-commercial** community use only. Do not use these assets in a way that implies official status or affiliation, and do not sell merchandise featuring these marks or graphics. Please contribute only your own work.
 
+## License
+Original content in this repository is licensed under **CC BY-NC-SA 4.0**. This does not grant any rights to third-party trademarks or original Ingress Prime assets.
+
 ## What This Repo Is
 - **Scanner graphics:** Icons, HUD overlays, frames, badges.
 - **Templates:** Editable vector sources (primary `SVG`, optional `AI`/`EPS`).
